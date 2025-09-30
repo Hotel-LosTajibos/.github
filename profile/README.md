@@ -79,7 +79,8 @@
 
 > ⚠️ Tecnología **VoIP**, no sobre líneas tradicionales.
 >
-<img width="1605" height="957" alt="image" src="https://github.com/user-attachments/assets/3bae2cb3-6706-48b8-be6b-af1c466e18df" />
+<img width="1594" height="681" alt="image" src="https://github.com/user-attachments/assets/3448bbe4-89d8-4d95-a740-7b8eca3bf504" />
+
 
 
 ---
