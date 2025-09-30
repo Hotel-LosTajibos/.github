@@ -92,7 +92,8 @@
   **Costo setup e implementación:** USD 200
   **Licencia mensual:** USD 50
 
- <img width="1606" height="871" alt="image" src="https://github.com/user-attachments/assets/757d44ee-d658-41f9-9967-0893587a7b3f" />
+<img width="1851" height="892" alt="image" src="https://github.com/user-attachments/assets/684ebb4d-7b58-4b1d-92da-345fc25c7ced" />
+
 
 
 ---
