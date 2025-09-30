@@ -9,6 +9,9 @@
   **Costo setup e implementación:** USD 1.000
   **Licencia mensual:** USD 250
 
+<img width="1868" height="960" alt="image" src="https://github.com/user-attachments/assets/b75566b7-4670-4366-83ad-7d86fd5ac37c" />
+
+
 ---
 
 ## 2. **Integración WhatsApp (Dispositivos ilimitados)**
