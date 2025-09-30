@@ -1,5 +1,5 @@
 
-# Cotización Plataforma CRM + Integraciones + IA (Desglosada)
+## Cotización Plataforma CRM + Integraciones + IA (Desglosada)
 
 ## 1. **Gestión empresarial y CRM**
 
