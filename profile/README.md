@@ -105,6 +105,9 @@
 **Pago unico USD** Es el monto a pagar por la compra del producto, tiene incluido el pase y configuracion en sus servidores.
 
 
+Todos los modulos pueden ser contratados por separado.
+Los tres modulos principales (Whatsapp, Instagram y facebook messenger) suman un costo mensuak de $350/mes
+
 | Detalle         | Setup USD | Mensua USD|Pago unico USD|
 | ------------------------------------         | --------------- | --------------------| -----------------------|
 | CRM / Gestión Empresarial     | 1.000          | 250                   |           6000          |   
