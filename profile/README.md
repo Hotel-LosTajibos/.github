@@ -1,4 +1,3 @@
-<img width="1440" height="883" alt="image" src="https://github.com/user-attachments/assets/5829d577-a19e-42b9-b61f-eea00b618092" />
 
 # 📄 Cotización Plataforma CRM + Integraciones + IA (Desglosada)
 
