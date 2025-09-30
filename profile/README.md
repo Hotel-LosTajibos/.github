@@ -78,6 +78,9 @@
   **Licencia mensual:** USD 120
 
 > ⚠️ Tecnología **VoIP**, no sobre líneas tradicionales.
+>
+<img width="1605" height="957" alt="image" src="https://github.com/user-attachments/assets/3bae2cb3-6706-48b8-be6b-af1c466e18df" />
+
 
 ---
 
@@ -88,7 +91,8 @@
   **Costo setup e implementación:** USD 200
   **Licencia mensual:** USD 50
 
- 
+ <img width="1606" height="871" alt="image" src="https://github.com/user-attachments/assets/757d44ee-d658-41f9-9967-0893587a7b3f" />
+
 
 ---
 
