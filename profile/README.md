@@ -1,4 +1,4 @@
-
+<img width="1440" height="883" alt="image" src="https://github.com/user-attachments/assets/5829d577-a19e-42b9-b61f-eea00b618092" />
 
 # 📄 Cotización Plataforma CRM + Integraciones + IA (Desglosada)
 
@@ -23,6 +23,10 @@
 
 > ⚠️ Requiere **WhatsApp Business API** y registro en **Meta Business Manager**.
 
+<img width="1868" height="960" alt="image" src="https://github.com/user-attachments/assets/6c4e4972-584a-42aa-82ff-ca82887ca0f5" />
+
+
+
 ---
 
 ## 3. **Integración Facebook (Dispositivos ilimitados)**
@@ -34,6 +38,9 @@
 
 > ⚠️ Necesario registrar la app en **Facebook Developers** y vincular con **Meta Business Manager**.
 
+<img width="1440" height="883" alt="image" src="https://github.com/user-attachments/assets/9360682d-2eff-4109-bd19-9d87c38682f1" />
+
+
 ---
 
 ## 4. **Integración Instagram (Dispositivos ilimitados)**
@@ -44,6 +51,9 @@
   **Licencia mensual:** USD 100
 
 > ⚠️ Requiere vinculación a **Meta Business Manager**.
+
+<img width="1440" height="883" alt="image" src="https://github.com/user-attachments/assets/970f13b2-7bba-4da7-ab14-43121a433fb0" />
+
 
 ---
 
@@ -77,6 +87,8 @@
   **Costo setup e implementación:** USD 200
   **Licencia mensual:** USD 50
 
+ 
+
 ---
 
 # 💰 **Resumen costos**
@@ -89,10 +101,10 @@
 | Detalle         | Setup USD | Mensua USD|Pago unico USD|
 | ------------------------------------         | --------------- | --------------------| -----------------------|
 | CRM / Gestión Empresarial     | 1.000          | 250                   |           6000          |   
-| WhatsApp (6 dispositivos)       | 400             | 100                   |          2400           |
-| Facebook (8 dispositivos)        | 500              | 150                   |         3600           |
-| Instagram (8 dispositivos)       | 400             | 100                    |         2400           |
-| TikTok (3 dispositivos)               | 300             | 80                     |         1920           |
+| WhatsApp       | 400             | 100                   |          2400           |
+| Facebook        | 500              | 150                   |         3600           |
+| Instagram        | 400             | 100                    |         2400           |
+| TikTok                | 300             | 80                     |         1920           |
 | Llamadas VoIP con IA               | 400              | 120                  |         2880           |
 | Encuestas NPS con IA               | 200              | 50                    |         1200           |
 | **Total**                                    | 3.200            | 850                 |         20400         |
